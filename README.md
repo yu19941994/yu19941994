@@ -2,7 +2,7 @@
 
 ### Projects
 ---
-* [PRIFIX](https://yu19941994.github.io/prifix/#/)
+* [PREFIX](https://yu19941994.github.io/prifix/#/)
    * A E-Commerce Website about selling equal rights videos.
    * Developed by Vue.js/Bootstrap/SCSS
 
