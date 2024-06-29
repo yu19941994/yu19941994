@@ -20,7 +20,8 @@
    * Webpack
    * Gulp
 * Framework
-   * Vue.js(main)
-   * AngularJS/React.js(have experience)
+   * Vue.js
+   * React.js
+   * Express.js
 * Testing
    * cypress.io(e2e testing)
